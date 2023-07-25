@@ -1,8 +1,8 @@
-🏠 Person and Houses API 🏠
+# 🏠 Person and Houses API 🏠
 
 A simple API system with two models: Person and House. There is a one-to-many relationship between person and house (one person can have one and multiple houses, while one house can have only one person as owner).
 
-⚒Constructed With⚒️
+# ⚒Constructed With⚒️
 - JavaScript
 - [Node.js](https://nodejs.org/en/)
 - [MongoDB Atlas](https://www.mongodb.com/atlas/database)
